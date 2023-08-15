@@ -1,4 +1,5 @@
 #include <stdio.h>
+// This is just for practice
 int main(){
 	int man = 10;
 	int manny = 20;
