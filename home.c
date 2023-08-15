@@ -7,5 +7,5 @@ int main(){
 	printf("I am a software engineer \\ I am a full stack website developer. \"Bravo\".");
 	return 0;
 	/*This is the end of
-	 * the code here*/
+	 * the code here. well, that's great*/
 }
