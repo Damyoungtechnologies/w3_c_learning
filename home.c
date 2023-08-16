@@ -5,6 +5,7 @@ int main(){
         printf("Am i good to start\n");
 	printf("I am a graduate of \t the University of Nigeria, Nsukka\n\n");
 	printf("I am a software engineer \\ I am a full stack website developer. \"Bravo\".");
+	printf("\nI have not really edited this today at all");
 	return 0;
 	/*This is the end of
 	 * the code here. well, that's great*/
